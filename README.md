@@ -1,5 +1,5 @@
 ## 📦 Repository Overview:
-*This repository showcases my SQL skills through an end-to-end analysis of datasets. All the projects are designed to demonstrate practical data analyst capabilities such as:*
+- *This repository showcases my SQL skills through an end-to-end analysis of datasets. All the projects are designed to demonstrate practical data analyst capabilities such as:*
       - Data cleaning and preprocessing
       - Writing optimized SQL queries
       - **Performing exploratory data analysis (EDA)**
@@ -17,7 +17,7 @@ This repository contains an end-to-end SQL-based analysis of the **Superstore** 
 ---
 ## 📁 Database Used
 
-(SuperStore Dataset)[https://github.com/somshubh/Data_Analyst_SQL_Project/blob/main/SuperStore_Sales_Analysis/Superstore.xlsx]
+[SuperStore Dataset](https://github.com/somshubh/Data_Analyst_SQL_Project/blob/main/SuperStore_Sales_Analysis/Superstore.xlsx)
 
 ---
 
@@ -113,6 +113,6 @@ Lists products that, despite having high sales, result in losses — useful for 
 **Somshubhra Giri**  
 📍 Kolkata, India  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/somshubhra-giri-5a2666198)  
-✉️ Email: your-email@example.com
+✉️ Email: somshubhra.1999@gmail.com
 
 
