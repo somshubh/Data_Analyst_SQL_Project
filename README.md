@@ -1,9 +1,9 @@
 ## 📦 Repository Overview:
 - *This repository showcases my SQL skills through an end-to-end analysis of datasets. All the projects are designed to demonstrate practical data analyst capabilities such as:*
-         - Data cleaning and preprocessing
-         - Writing optimized SQL queries
-         - **Performing exploratory data analysis (EDA)**
-         - Deriving key business **insights and KPIs**
+  - Data cleaning and preprocessing
+  - Writing optimized SQL queries
+  - **Performing exploratory data analysis (EDA)**
+  - Deriving key business **insights and KPIs**
 
   - **💡 Goal:** Simulate a real-world scenario where a business analyst or data analyst would extract insights from sales data to help stakeholders make informed decisions.
   - **🛠️ Tools & Technologies:**
