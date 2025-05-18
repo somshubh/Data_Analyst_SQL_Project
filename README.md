@@ -1,5 +1,5 @@
 ## 📦 Repository Overview:
-- *This repository showcases my SQL skills through an end-to-end analysis of datasets. All the projects are designed to demonstrate practical data analyst capabilities such as:*
+*This repository showcases my SQL skills through an end-to-end analysis of datasets. All the projects are designed to demonstrate practical data analyst capabilities such as:*
   - Data cleaning and preprocessing
   - Writing optimized SQL queries
   - **Performing exploratory data analysis (EDA)**
