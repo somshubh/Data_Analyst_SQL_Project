@@ -1,5 +1,5 @@
 ## 📦 Repository Overview:
-  - *This repository showcases my SQL skills through an end-to-end analysis of datasets. All the projects are designed to demonstrate practical data analyst capabilities such as:*
+*This repository showcases my SQL skills through an end-to-end analysis of datasets. All the projects are designed to demonstrate practical data analyst capabilities such as:*
       - Data cleaning and preprocessing
       - Writing optimized SQL queries
       - **Performing exploratory data analysis (EDA)**
@@ -15,10 +15,9 @@
 This repository contains an end-to-end SQL-based analysis of the **Superstore** dataset. The project covers data cleaning, exploratory data analysis (EDA), customer segmentation, and business insights to assist decision-makers in understanding sales, profits, customer behavior, and more.
 
 ---
-
 ## 📁 Database Used
 
-
+(SuperStore Dataset)[https://github.com/somshubh/Data_Analyst_SQL_Project/blob/main/SuperStore_Sales_Analysis/Superstore.xlsx]
 
 ---
 
@@ -95,7 +94,7 @@ Lists products that, despite having high sales, result in losses — useful for 
 
 ## 🛠️ Tools Used
 
-- **SQL Server / T-SQL**
+- **SQL Server**
 - **Superstore Dataset**
 - **Microsoft SQL Server Management Studio (SSMS)** or any preferred SQL IDE
 
@@ -113,7 +112,7 @@ Lists products that, despite having high sales, result in losses — useful for 
 
 **Somshubhra Giri**  
 📍 Kolkata, India  
-🔗 [LinkedIn](#) *linkedin.com/in/somshubhra-giri-5a2666198*  
-✉️ Email: *somshubhra.1999.com*
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/somshubhra-giri-5a2666198)  
+✉️ Email: your-email@example.com
 
 
